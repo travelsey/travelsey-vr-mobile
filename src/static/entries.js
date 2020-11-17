@@ -1,27 +1,21 @@
 export const ENTRIES1 = [
     {
-        title: 'Beautiful and dramatic Antelope Canyon',
-        subtitle: 'Lorem ipsum dolor sit amet et nuncat mergitur',
-        illustration: 'https://i.imgur.com/UYiroysl.jpg',
-        videourl: 'https://travelsey-vr-api-server.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=uhdpNod6gb4&format=best'
+        title: 'One Day in Dubai',
+        subtitle: 'Dubai is like nowhere else on the planet. From its glittering skyscrapers to its sweeping sand dunes, this multi-cultural metropolis is as awe-worthy as ever. It has the world’s largest shopping mall, the world’s tallest tower, beautiful beaches, and even man-made islands. Experience the best of Dubai in our 360° Virtual Tour!',
+        illustration: 'https://images.pexels.com/photos/1842332/pexels-photo-1842332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=640&w=426',
+        videourl: 'https://travelsey-vr-api-server.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=mIRge7H4qYs&format=bestvideo'
 
     },
     {
         title: 'One day in Singapore',
-        subtitle: 'Lorem ipsum dolor sit amet',
+        subtitle: 'The city state of Singapore will charm you with its interesting history, beautiful architecture and friendly attitude. Be amazed by the otherworldly Gardens by the Bay, taste the delicious local food and explore what else this Asian metropolis has to offer. It is also an ideal destination for all shopaholics with its countless shops selling literally everything you can think of. Enjoy the spectacular views during the day and the lit up attractions after nightfall in this 360 video.',
         illustration: 'https://images.pexels.com/photos/1842332/pexels-photo-1842332.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=640&w=426',
         videourl: 'https://travelsey-vr-api-server.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=uhdpNod6gb4&format=bestvideo'
     },
     {
-        title: 'White Pocket Sunset',
-        subtitle: 'Lorem ipsum dolor sit amet et nuncat ',
+        title: 'One day in Venice',
+        subtitle: 'Venice is definitely one-of-a-kind. Where else would you find a city on the water? Its location gives it a unique and a bit mysterious character. And it is also very romantic due to the ever-present bridges and churches. The city centre makes you feel like a time traveller travelling back in time to the époque of Casanova - probably the very best-known citizen of Venice. If you’re lucky enough to visit the city during the carnivals, you will be up for a once-in-a-lifetime experience. And don’t forget to stop by in one of the many restaurants to taste the exquisite local cuisine.',
         illustration: 'https://i.imgur.com/MABUbpDl.jpg',
-        videourl: 'https://travelsey-vr-api-server.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=uhdpNod6gb4&format=best'
-    },
-    {
-        title: 'Acrocorinth, Greece',
-        subtitle: 'Lorem ipsum dolor sit amet et nuncat mergitur',
-        illustration: 'https://i.imgur.com/KZsmUi2l.jpg',
-        videourl: 'https://travelsey-vr-api-server.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=uhdpNod6gb4&format=best'
+        videourl: 'https://travelsey-vr-api-server.herokuapp.com/api/play?url=https://www.youtube.com/watch?v=cKY-oj0k-Jk&format=bestvideo'
     }
 ];
