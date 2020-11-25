@@ -1,12 +1,10 @@
 {
-  "name": "TravelseyVR",
-  "displayName": "TravelseyVR",
+  "name": "Travelsey VR",
+  "displayName": "Travelsey VR",
   "expo": {
-    "name": "TravelseyVR",
-    "slug": "TravelseyVR",
+    "name": "Travelsey VR",
+    "slug": "travelsey-vr",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   }
 }
